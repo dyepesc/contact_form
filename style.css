@@ -1,0 +1,19 @@
+.central{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+h2{
+    text-align: center;
+}
+.alert.success {
+    background: #59e5a2;
+}
+
+.alert.danger {
+    background: #e55961;
+}
+.btnSubmit {
+    display: flex;
+    justify-content: center;
+}
